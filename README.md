@@ -1,4 +1,8 @@
-Here is my walkthrough project for learning purposes with Code Institute. This is a website for a Dublin based running community. I have exactly followed all the steps provided in the tutorial by the Web development tutor AJGreaves. You can see the result here :point_down:
+Here is my walkthrough project for learning purposes with Code Institute. This is a website for a Dublin based running community. I have exactly followed all the steps provided in the tutorial by the Web development tutor AJGreaves. 
+
+You can see the result here 
+
+## :point_down:
 
 ## Deployed Site
 
